@@ -1,0 +1,6 @@
+C:\Users\Heliton\Source\Repos\SalarioBonus\bin\Debug\SalarioBonus.exe.config
+C:\Users\Heliton\Source\Repos\SalarioBonus\bin\Debug\SalarioBonus.exe
+C:\Users\Heliton\Source\Repos\SalarioBonus\bin\Debug\SalarioBonus.pdb
+C:\Users\Heliton\Source\Repos\SalarioBonus\obj\Debug\SalarioBonus.csprojAssemblyReference.cache
+C:\Users\Heliton\Source\Repos\SalarioBonus\obj\Debug\SalarioBonus.exe
+C:\Users\Heliton\Source\Repos\SalarioBonus\obj\Debug\SalarioBonus.pdb
